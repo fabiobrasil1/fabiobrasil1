@@ -10,14 +10,15 @@
 
 <div>
  
+  <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://img.icons8.com/color/512/nestjs.png">
+ <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png">
   <img align="center" alt="Fabio-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fabio-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img align="center" alt="Fabio-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Fabio-SQLalchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
   <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://img.icons8.com/color/512/nestjs.png">
- <img align="center" alt="Fabio-HTML" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png">
+
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
