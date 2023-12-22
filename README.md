@@ -19,6 +19,8 @@
   <img align="center" alt="Fabio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   <img align="center" alt="Fabio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Fabio-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+  <img align="center" alt="Fabio-MongoDB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.png"/>
+  
 </div>
   
 ## You may find me in: 
