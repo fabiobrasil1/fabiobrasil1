@@ -7,6 +7,7 @@ Experiência com sistemas escaláveis, mensageria, arquitetura distribuída, API
 
 🚀 Atualmente estudando e desenvolvendo soluções com:
 - IA aplicada com LLMs e RAG
+- LangChain & AI Agents
 - Microsserviços e arquitetura escalável
 - Cloud Azure & AWS
 - DevOps, CI/CD e Observabilidade
@@ -26,6 +27,7 @@ Experiência com sistemas escaláveis, mensageria, arquitetura distribuída, API
   <img align="center" alt="Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="LangChain" height="40" width="40" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png">
 </div>
 
 ---
@@ -60,6 +62,10 @@ Experiência com sistemas escaláveis, mensageria, arquitetura distribuída, API
 ---
 
 ### ⚙️ Architecture & Tools
+- LangChain
+- AI Agents
+- RAG Pipelines
+- MCP Servers
 - Microsserviços
 - Clean Architecture
 - SOLID
