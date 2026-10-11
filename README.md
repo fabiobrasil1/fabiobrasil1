@@ -7,7 +7,7 @@ Experiência com sistemas escaláveis, mensageria, arquitetura distribuída, API
 
 🚀 Atualmente estudando e desenvolvendo soluções com:
 - IA aplicada com LLMs e RAG
-- LangChain & AI Agents
+- LangGraph LangChain & AI Agents
 - Microsserviços e arquitetura escalável
 - Cloud Azure & AWS
 - DevOps, CI/CD e Observabilidade
